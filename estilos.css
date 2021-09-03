@@ -2,7 +2,8 @@
 <html>
 <head>
   <title> atividade de teste</title>
-<link= “stylesheet”  href= “css.externa” >
+<link= “stylesheet”  
+ref= “css.externa”>
 <style type= “text/css”>
 body{
         color: green;
